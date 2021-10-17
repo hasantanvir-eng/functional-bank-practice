@@ -10,6 +10,6 @@ document.getElementById('login-submit').addEventListener('click', function(){
     // check email and password
     if(userEmail == 'sontan@baap.com' && userPassword == 'secret'){
         // console.log('valid user');
-        window.location.href = 'banking-ex.html';
+        window.location.href = 'banking.html';
     }
 });
